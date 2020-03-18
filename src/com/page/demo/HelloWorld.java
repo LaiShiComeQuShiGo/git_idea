@@ -8,4 +8,9 @@ package com.page.demo;
 public class HelloWorld {
     // master
 //    master --stash
+    // master
+
+    public static void main(String[] args) {
+        System.out.println();
+    }
 }
